@@ -1,0 +1,303 @@
+# yaml-language-server: $schema=../schema/metadata.json
+metadata:  
+  # Disc 1
+  # The first Track (the regional theme of Sumeru) does not exist in the game
+  - hash: eb4a2b1fdf1448729a4813fda2cbb32fcca905dfeeb46a00d21766c7148e7d52
+    musicType: ambience
+    disc: 1
+    track: 2
+    title: Whirling of Leaves and Petals
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 60beedaee9a56d95b6ed1c4d7bffbf772e92dd23a093d4976c53045e44dc9e90
+    musicType: ambience
+    disc: 1
+    track: 3
+    title: Flickering Shadows of Trees
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 7214a9e615a5eb5a6bd97e6fb30587b1e24f2ec6fadaed0fd5a1189edd82007c
+    musicType: ambience
+    disc: 1
+    track: 4
+    title: For Riddles, for Wonders
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 8db9d69bc6c2ca5e10b63fa653436200daa3b08d47114057dc7890ff174b198e
+    musicType: ambience
+    disc: 1
+    track: 5
+    title: Evergreen Wish
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: b0c34e2746e37b0134f1e0c27986aef3b1ad1d9e021eee5e160589838e898600
+    musicType: ambience
+    disc: 1
+    track: 6
+    title: Many-Colored Smiles and Tears
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 7f985ce4db4dc747abba72fe1533c801b9e4ab2cedb163a63e57d8aaaeae79b2
+    musicType: ambience
+    disc: 1
+    track: 7
+    title: Overnight Dew in the Woods
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 5a69cfea04406453136e63f37f9967ff04a23a0e9287ff5e389566f0967fae69
+    musicType: ambience
+    disc: 1
+    track: 8
+    title: Thoughts and Prayers
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 90ebaaff097c1eedc49541ae4d3df6479ab5f914372dfdb965d65a345ac1700d
+    musicType: ambience
+    disc: 1
+    track: 9
+    title: Those Lucid Dreams
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 6c2cd2bea930c88d396abb59e41190763a4db7cdeae2713c7d899ebd8fae5e1f
+    musicType: ambience
+    disc: 1
+    track: 10
+    title: Silent Starry Night
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: b13ae0730f9f9fe8070ffea13baeb8c0e23dc277f0dcd0dc9617d244b696d836
+    musicType: ambience
+    disc: 1
+    track: 11
+    title: Fresh Breezes of Dawn
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: edb33335495e3264494e07176d222a5d082503c5fd75bd0df2742090dd153675
+    musicType: ambience
+    disc: 1
+    track: 12
+    title: Halcyon Times
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 29db47eafed1369f6f57a07d14dba1a6acc12bbfb9973335b8b8cd4f1b03c2bd
+    musicType: ambience
+    disc: 1
+    track: 13
+    title: Return to Trueness
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: d755b457331e424a6fd361865fee44378a7ba0c8dc458dd06756219b587142ec
+    musicType: ambience
+    disc: 1
+    track: 14
+    title: Hustle and Bustle of Ormos
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: ca340101815e573d8f2863acfaa0e119fc55e3730fb58825cba4f7977c456d46
+    musicType: ambience
+    disc: 1
+    track: 15
+    title: End of the Feast
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 6e254669e2bd84deeb6282646ed0daa4f0608593971638bb1979d7b702adba3e
+    musicType: ambience
+    disc: 1
+    track: 16
+    title: Bustling Streets
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 4dca4f0d15d8d393af172ac12304a1ba280bce583929c0d6139de8173c04eff9
+    musicType: ambience
+    disc: 1
+    track: 17
+    title: Sleepless Night
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: fe345b719ccbe88332832898dd0264a8886fbc34366ef6ab4b30c342f1de66e2
+    musicType: ambience
+    disc: 1
+    track: 18
+    title: Village Surrounded by Green
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 309d9c71aa17746d87ecde44872b41b64dbf1cf9571ee7965fc9775dbb533b5b
+    musicType: ambience
+    disc: 1
+    track: 19
+    title: Enchanting Bedtime Stories
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 2f9a9d5b5b04bb256ff99d6984aaa522d1842558e0df8a3c804ce6d1f97f0b04
+    musicType: ambience
+    disc: 1
+    track: 20
+    title: Scorching Outpost
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: b02ffff9c6081983ec72eb83060e382088051fa119cafb0f8e934eda507c315b
+    musicType: ambience
+    disc: 1
+    track: 21
+    title: Unyielding Witness
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 2e4b469c789db75cf2674984f661ec2c937feb0d2130f8020b3c434b55ce82e6
+    musicType: ambience
+    disc: 1
+    track: 22
+    title: In Yonder Ribat
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 06320a43eb39ef04e0d6576b19664e2413e8bfb1acab2148e67e0809384d68f6
+    musicType: ambience
+    disc: 1
+    track: 23
+    title: Vigilant Minders
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: fd82e51a20160e5d61992197700515244260da27845beabedf3499e711e76092
+    musicType: ambience
+    disc: 1
+    track: 24
+    title: Forest in the Light
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: e550472e9b33f1d9459433b61f22a8b88cdb6a50a1a54a6465c13732012f799d
+    musicType: ambience
+    disc: 1
+    track: 25
+    title: Rustling of Tender Foliage
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 809f31c906d4e90beafd77b49ed04a8639bc463650625ca9492288420af0011c
+    musicType: ambience
+    disc: 1
+    track: 26
+    title: A Desultory Stroll
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 0ebfccbda48c99f81e646be10a48eb8d595c12f596b913850c2ea46e9fe9ccd5
+    musicType: ambience
+    disc: 1
+    track: 27
+    title: Chasing the Reflection
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 3cd23bb231ff1081d8ffa68c4737e3e3c8add529485dccea842c72d7f679904c
+    musicType: ambience
+    disc: 1
+    track: 28
+    title: As the Soft Wind Blows
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 7c3daed7e4131930c8d95adfed798596be8a187ee4eaa33898e38568dfbbc4a7
+    musicType: ambience
+    disc: 1
+    track: 29
+    title: Languid and Quiet Moment
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 0ffef1edc1ea9901295a36da1c701cb4a892e4dbb08342eb831ba807c651810f
+    musicType: ambience
+    disc: 1
+    track: 30
+    title: Moonlit Night in Sumeru
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 90c8b39cf99d0930f289815652f26875a3e2dd24cd00362ead726ffec789fba0
+    musicType: ambience
+    disc: 1
+    track: 31
+    title: Vagrant Wandering
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: c2684fc8547466368746a4aab1807a6bcc0c863dec7eabc59adc8311d72ecbf0
+    musicType: ambience
+    disc: 1
+    track: 32
+    title: A Drowsy Sensation
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 2ebe1df75848c2d96f93aa070acae94b2cd5338201a748f9038a1f5f7e0c8093
+    musicType: ambience
+    disc: 1
+    track: 33
+    title: Ethereal Mildness
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 5af76ded06596ce3660fa746d0bc07a2664ed0c9b4f016e02bfd2ba4baa04948
+    musicType: ambience
+    disc: 1
+    track: 34
+    title: Resonant Chant in the Woods
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  # Disc 2
+
+  # Disc 4
+  - hash: bfc4b5cf33f326926c61dd7a589b3f9f82b234e6c6fc33c69a4fea890b1d28ba
+    musicType: battle
+    disc: 4
+    track: 1
+    title: Swirls of the Stream
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: c84fad8d5ba9b3ffafdd8bf0febe34eb072849a2e4f5415986f30651d4afa7b7
+    musicType: battle
+    disc: 4
+    track: 2
+    title: Rhymes of Vales
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: 937e4104d3360e1fbfdfe5cd0dd1c0b931d467d47aef513cd4a585ca2fc0cc25
+    musicType: battle
+    disc: 4
+    track: 3
+    title: Gilded Runner
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"
+  - hash: a294ccf9ca10cf3d8668d9a5e12aa5953cfd8747e39f95a02fd31fb7e878a4f3
+    musicType: battle
+    disc: 4
+    track: 4
+    title: Jolts in the Forest
+    album: Forest of Jnana and Vidya
+    area: Sumeru
+    gameVersion: "3.0"

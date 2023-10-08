@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../schema/metadata.json
+metadata:
+  - hash: 88c0287bc1c7a0be8dbcfbd4ee5ded8158c95a5461e32d38cebe24b4f8f9c129
+    gameVersion: "3.4"
+  - hash: 47895b1ce9224b9bf597a8d6d7b3de70759473186ed3ddf42e5ab557d368204c
+    gameVersion: "3.4"
+  - hash: e794fcc22d079d8f5e7edbb4bd86117aab1d667b03194f2e0ebf956edbfdaa3a
+    gameVersion: "3.4"
+  - hash: 92f98ab3d15c40cce8c09d1f36b9692bb082b772122fdee3aaa41223f550f2f4
+    gameVersion: "3.4"
+  - hash: 353a326c0634c39ca2d5a8c016cf82ebb01d73bcafefba1331fec5cbbf4c352c
+    gameVersion: "3.4"
+  - hash: 3a024708df4da574df5dd1a10e7555b05f2a2256e9e089fb74fc9241be3b27b2
+    gameVersion: "3.4"
+  - hash: 66bdd8692d925fc6f299250073ebc4499d14bec0308d96619088d9e0cb6c903f
+    gameVersion: "3.4"
+  - hash: 993af0581a4a9188256f9e336715db9c4b6481750325694b02fe5d60a924b807
+    gameVersion: "3.4"
+  - hash: 944eb58438b41f95d7332d869c0f469815e7cb75fa1eedc298525b4b5ce8f716
+    gameVersion: "3.4"
+  - hash: 26fc2c7abe5107508d4bb981e3ebf907dc283a1b6ef44fbd865526168ee1dec8
+    gameVersion: "3.4"
+  - hash: a7f0846175a8bfbce24e35a945db8dacfa011f9be240f996fb0e53c935a898dc
+    gameVersion: "3.4"
+  - hash: b8e5a669cb491134a25c492effa9a86c3299f06154b16fcf778b1155f39fb9de
+    gameVersion: "3.4"
+  - hash: 30f4009cadc66840527b46d36c162aa208f6c187aa7d8ea3d53331750fab7fe3
+    gameVersion: "3.4"
+  - hash: 660a0dafede382340cc0b0887a21113ce1756a5c9b3223ecb38bc4f9fded42cd
+    gameVersion: "3.4"
+  - hash: 909d8e9835af8e3af6c8619b98bec11f80a34669dc87ec9bbc8e361bc4cbf80a
+    gameVersion: "3.4"
+  - hash: 5c11fd47b3669b510c60efd987f1ddb714ace22ac6e2b7aed8385ac325561285
+    gameVersion: "3.4"
+  - hash: 92b4f322db244cbab9d9d14e5942a2acb66516eb2535e322323d88b94cf4f7c3
+    gameVersion: "3.4"
+  - hash: 0151ca9c15cd4b6d21728bb173735e3131f2dc482c239125936402fe13b15059
+    gameVersion: "3.4"
+  - hash: fd5a3bc15c590c0497d5ea78298c0d16fdedb6cacfc41f0a595250f5494290c8
+    gameVersion: "3.4"
+  - hash: e3eef1443e065b1c4b1272622570368e06ade6a0297bf241813969d1c9967455
+    gameVersion: "3.4"
+  - hash: 7aeee0cbc4a99705597c2b148ca401eb850db885676d37698635c8b2ab9940b1
+    gameVersion: "3.4"
+  - hash: 43548fcebf6680e3e48e569c3aa1fea78e199bee6325eb06a7ed36dc00fdbbb5
+    gameVersion: "3.4"
+  - hash: cf6f21d667c9a5f1cb8f12a2bf001bb14d4d452d8f4deb0edda7b6004bf7eb97
+    gameVersion: "3.4"
+  - hash: 2ff243767c4a18a93655e59329c2fec67bab879b20e68600eea6cbfcb49fd6d6
+    gameVersion: "3.4"

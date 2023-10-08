@@ -1,0 +1,2 @@
+- [ ] read _metadata files on updateDatabase and write metadata into database
+    - [ ] use that metadata when extracting files

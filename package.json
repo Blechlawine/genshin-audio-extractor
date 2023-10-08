@@ -1,14 +1,23 @@
 {
-  "name": "genshin-audio-extractor",
-  "version": "0.1.0",
-  "description": "Convert Genshin Impact .pck files into various workable files",
-  "main": "decode.js",
-  "dependencies": {
-    "arg": "^5.0.0",
-    "mkdirp": "^1.0.4",
-    "node-worker-threads-pool": "^1.4.2"
-  },
-  "engines": {
-    "node": ">=12.x"
-  }
+    "name": "genshin-audio-extractor",
+    "version": "0.1.0",
+    "description": "Convert Genshin Impact .pck files into various workable files",
+    "main": "decode.js",
+    "scripts": {
+        "decode": "node decode.js --input ./input --verbose",
+        "updateDatabase": "node generateHashes.mjs",
+        "extract": "node extractFilesOfVersion.mjs"
+    },
+    "dependencies": {
+        "arg": "^5.0.0",
+        "inquirer": "^9.1.4",
+        "mkdirp": "^1.0.4",
+        "node-worker-threads-pool": "^1.4.2",
+        "sequelize": "^6.25.3",
+        "sqlite3": "^5.1.2",
+        "yaml": "^2.1.3"
+    },
+    "engines": {
+        "node": ">=12.x"
+    }
 }

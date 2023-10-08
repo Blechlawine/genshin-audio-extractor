@@ -1,5 +1,7 @@
 package-lock.json
 node_modules
-input/*
-output/*
-processing/*
+input
+output
+processing
+extracted
+*.sqlite
